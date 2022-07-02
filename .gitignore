@@ -18,6 +18,7 @@ docs/_build/
 .vscode
 __pycache__/
 node_modules/
+backend/flaskr/venv/
 
 # Coverage reports
 htmlcov/
